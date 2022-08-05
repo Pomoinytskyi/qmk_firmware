@@ -34,3 +34,9 @@ QMK is developed and maintained by Jack Humbert of OLKB with contributions from 
 ## Official Website
 
 [qmk.fm](https://qmk.fm) is the official website of QMK, where you can find links to this page, the documentation, and the keyboards supported by QMK.
+
+
+## Build and installation:
+1. Read [Setting Up Your QMK Environment](https://docs.qmk.fm/#/newbs_getting_started)
+2. Download and install [QMK SYS](https://msys.qmk.fm/)
+3. 
