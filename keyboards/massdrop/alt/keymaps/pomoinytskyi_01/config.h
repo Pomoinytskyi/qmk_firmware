@@ -181,4 +181,13 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #    define ENABLE_RGB_MATRIX_SOLID_SPLASH
 #    define ENABLE_RGB_MATRIX_SOLID_MULTISPLASH
 
+
+#define TAPPING_TERM 175
+#define TAPPING_TOGGLE 2
+
+// Enables reset timeout after each each keypress on Leader key, https://docs.qmk.fm/#/feature_leader_key
+#define LEADER_PER_KEY_TIMING
+#define LEADER_TIMEOUT 300
+//#define LEADER_NO_TIMEOUT
+
 #include "config_led.h"
